@@ -1,0 +1,2 @@
+libva error: /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so init failed
+[220080:220080:0824/000213.936938:ERROR:network_service_instance_impl.cc(594)] Network service crashed, restarting service.
